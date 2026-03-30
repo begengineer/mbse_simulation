@@ -1,0 +1,17 @@
+# MATLAB/Simulink
+*.autosave
+*.slxc
+slprj/
+*.mex*
+
+# Enterprise Architect
+*.ldb
+*.bak
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
